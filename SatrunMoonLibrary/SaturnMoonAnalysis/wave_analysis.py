@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
 import matplotlib.animation as anim
 import numpy as np
+from scipy.signal import find_peaks
+from scipy.stats import gaussian_kde  # For KDE plotting
 
 class WaveAnalysis:
     def __init__(self, dataset, bins=20, plot_type="2d"):
@@ -44,7 +46,7 @@ class WaveAnalysis:
             self.figure_3d = plt.figure(figsize=(14, 7))
             self.ax_3d = self.figure_3d.add_subplot(121, projection='3d')
 
-    def azimuthal_bin_analysis(self, i=0, r_min = 0.7e8, r_max= 1.5e8):
+    def azimuthal_bin_analysis(self, i=0, r_min = 0.7e8, r_max= 1.5e8, z_min = 3600, z_max=3800):
         """Performs the azimuthal bin analysis and creates initial plots."""
         r_test, theta_test = self.cartesian_to_polar(
             self.dataset.relative_positions[i, self.dataset.num_moons:, 0],
@@ -62,6 +64,7 @@ class WaveAnalysis:
                 rlabel = not rlabel
                 for ax in axlist:
                     ax.set_xlim(r_min, r_max)
+                    ax.set_ylim(z_min,z_max)
                     if rlabel:
                         ax.set_xlabel(f"r (m)")
                     if k >= self.bins: 
@@ -79,131 +82,111 @@ class WaveAnalysis:
             self.ax_3d.set_xlim(.7e8, 2.4e8)
             plt.show()
 
-    def update_2d(self, i):
-        """Updates 2D plot for a new frame."""
-        k = 0
-        for axlist in self.axes:
-            for ax in axlist:
-                if k >= self.bins: 
-                    break
-                r_test, theta_test = self.cartesian_to_polar(
-                    self.dataset.relative_positions[i, self.dataset.num_moons:, 0] - self.dataset.relative_positions[i, 0, 0],
-                    self.dataset.relative_positions[i, self.dataset.num_moons:, 1] - self.dataset.relative_positions[i, 0, 1]
-                )
-                sieve = r_test < 1e11
-                r, z, _ = self.split_theta_in_bins(r_test[sieve], theta_test[sieve], self.edges[k], self.edges[k + 1], i, sieve)
-                self.lines[k].set_data(r, z)
-                k += 4
+    def azimuthal_bin_analysis_with_kde(self, i=0, r_min=0.7e8, r_max=1.5e8, z_min=3600, z_max=3800, bandwidth=None):
+        """Performs azimuthal bin analysis and plots radial KDE for particles within z and r limits.
+        Allows bandwidth adjustment for KDE smoothing."""
 
-    def update_3d(self, i):
-        """Updates 3D plot for a new frame."""
+        # Convert cartesian coordinates to polar (r, theta)
         r_test, theta_test = self.cartesian_to_polar(
             self.dataset.relative_positions[i, self.dataset.num_moons:, 0],
             self.dataset.relative_positions[i, self.dataset.num_moons:, 1]
         )
-        sieve = r_test < 1e11
-        r, z, thet = self.split_theta_in_bins(r_test[sieve], theta_test[sieve], self.edges[0], self.edges[1], i, sieve)
-        self.dots.set_data_3d(r, thet, z)
 
-    def animate(self):
-        """Runs the animation based on the selected plot type."""
-        # Ensure that the animations are properly stored to avoid garbage collection
-        if self.plot_type in ["2d", "both"]:
-            self.animation_2d = anim.FuncAnimation(self.figure, self.update_2d, 
-                                                   frames=np.arange(0, self.dataset.relative_positions.shape[0], 1),
-                                                   interval=10)
-        if self.plot_type in ["3d", "both"]:
-            self.animation_3d = anim.FuncAnimation(self.figure_3d, self.update_3d, 
-                                                   frames=np.arange(0, self.dataset.relative_positions.shape[0], 1),
-                                                   interval=10)
-
-        # Ensure animations are retained and shown properly
-        if self.plot_type == "2d":
-            plt.show()  # Show 2D animation
-        elif self.plot_type == "3d":
-            plt.show()  # Show 3D animation
-        elif self.plot_type == "both":
-            plt.show()  # Ensure both 2D and 3D animations are shown
-
-        return self.animation_2d, self.animation_3d  # Return animations to prevent garbage collection
-    
-    
-    def compute_wavelength_2d(self, i=0, r_min=None, r_max=None):
-        """
-        Computes the average and median wavelength from the 2D radial distance (r) for the z-displacements.
+        # Filter the particles based on r_min, r_max, z_min, z_max
+        z_test = self.dataset.relative_positions[i, self.dataset.num_moons:, 2]
+        valid_indices = (r_test >= r_min) & (r_test <= r_max) & (z_test >= z_min) & (z_test <= z_max)
         
-        Args:
-            i: The index of the timestep to analyze.
-            r_min: Minimum value of r to consider.
-            r_max: Maximum value of r to consider.
+        r_filtered = r_test[valid_indices]  # Radial distances of valid particles
 
-        Returns:
-            dict: Dictionary containing the average wavelength, median wavelength, and number of peaks found.
-        """
-        r_test, theta_test = self.cartesian_to_polar(
-            self.dataset.relative_positions[i, self.dataset.num_moons:, 0],
-            self.dataset.relative_positions[i, self.dataset.num_moons:, 1]
-        )
-        sieve = r_test < 1e11
-        r, z, _ = self.split_theta_in_bins(r_test[sieve], theta_test[sieve], self.edges[0], self.edges[1], i, sieve)
-        
-        # Filter by r_min and r_max
-        if r_min is not None:
-            r = r[r >= r_min]
-            z = z[len(z) - len(r):]  # Ensure z corresponds to the filtered r values
-        if r_max is not None:
-            r = r[r <= r_max]
-            z = z[:len(r)]  # Ensure z corresponds to the filtered r values
+        # KDE Calculation
+        if len(r_filtered) > 0:
+            # Apply bandwidth adjustment if specified
+            kde = gaussian_kde(r_filtered, bw_method=bandwidth)
+            r_grid = np.linspace(r_min, r_max, 100)  # Create grid over the radial range
+            kde_values = kde(r_grid)
 
-        # Find peaks in the z-displacement data
-        peaks = np.where(np.diff(np.sign(np.diff(z))) < 0)[0]  # Find local maxima in z
+            # Plot the 1D KDE for radial density
+            plt.plot(r_grid, kde_values, color='blue')
+            plt.fill_between(r_grid, kde_values, color='blue', alpha=0.3)
+            plt.title('Radial Density KDE')
+            plt.xlabel('Radial Distance (r)')
+            plt.ylabel('Density')
+            plt.show()
+
+            return r_grid, kde_values  # Return grid and KDE values for further analysis
+        else:
+            print("No valid particles within the specified limits.")
+            return None, None
+
+    def find_kde_peaks(self, r_grid, kde_values):
+        """Finds peaks in the KDE values and calculates the average distance between these peaks."""
+        peaks, _ = find_peaks(kde_values, height=0)  # Adjust 'height' based on your data characteristics
+
         if len(peaks) < 2:
-            return {"average_wavelength": None, "medianwavelength": None, "num_peaks": 0}  # Not enough peaks to calculate wavelength
-        
-        # Calculate wavelength as the absolute distance between peaks in r
-        wavelengths = np.abs(np.diff(r[peaks]))
+            return {"average_peak_distance": None, "num_peaks": len(peaks)}
+
+        # Calculate distances between consecutive peaks
+        peak_distances = np.diff(r_grid[peaks])
+
         return {
-            "average_wavelength": np.mean(wavelengths) if len(wavelengths) > 0 else None,
-            "medianwavelength": np.median(wavelengths) if len(wavelengths) > 0 else None,
+            "average_peak_distance": np.mean(peak_distances) if len(peak_distances) > 0 else None,
             "num_peaks": len(peaks)
         }
+    
 
-    def plot_wavelength_over_time(self, r_min=None, r_max=None):
+
+    def plot_wavelength_over_time(self, r_min=None, r_max=None, z_min=3600, z_max=3800, bandwidth=None, xlim_low=0):
         """
-        Plots the average and median wavelength over time, with horizontal lines showing their time-averaged values.
+        Plots the average peak distance over time using KDE, with horizontal lines showing the time-averaged values.
 
         Args:
             r_min: Minimum radial distance for wavelength calculation.
             r_max: Maximum radial distance for wavelength calculation.
+            z_min: Minimum z value to consider.
+            z_max: Maximum z value to consider.
+            bandwidth: Bandwidth for KDE smoothing.
         """
         timesteps = np.arange(0, self.dataset.relative_positions.shape[0])
-        avg_wavelengths = []
-        medianwavelengths = []
+        avg_peak_distances = [0]
 
-        # Calculate the average and median wavelengths for each timestep
+        # Calculate the average peak distances for each timestep
         for i in timesteps:
-            result = self.compute_wavelength_2d(i, r_min, r_max)
-            avg_wavelengths.append(result["average_wavelength"])
-            medianwavelengths.append(result["medianwavelength"])
+            if i == 0:
+                continue
+            r_grid, kde_values = self.azimuthal_bin_analysis_with_kde(i, r_min, r_max, z_min, z_max, bandwidth)
+            if r_grid is not None and kde_values is not None:
+                result = self.find_kde_peaks(r_grid, kde_values)
+                avg_peak_distances.append(result["average_peak_distance"])
 
         # Compute the time-averaged values
-        avg_wavelength_time_avg = np.nanmean(avg_wavelengths)  # Use nanmean to ignore NaN values
-        medianwavelength_time_avg = np.nanmean(medianwavelengths)
+        avg_peak_distance_time_avg = np.nanmean(avg_peak_distances[xlim_low:])  # Use nanmean to ignore NaN values
+        avg_peak_distance_time_avg2 = np.nanmean(avg_peak_distances[10:])  # Use nanmean to ignore NaN values
 
+        #timestep conversion:
+        dt=self.dataset.header["dt"]*(self.dataset.header["Saved Points Modularity"])
+        time = dt/60/60/24
+        
         # Plotting
         plt.figure(figsize=(10, 6))
-        plt.scatter(timesteps, avg_wavelengths, label='Average Wavelength', color='b', marker='o')
-        plt.scatter(timesteps, medianwavelengths, label='Median Wavelength', color='g', marker='x')
+        plt.scatter(timesteps[xlim_low:]*time, avg_peak_distances[xlim_low:], label='Average Peak Distance', color='b', marker='o')
 
-        # Add horizontal lines for time averages
-        plt.axhline(y=avg_wavelength_time_avg, color='b', linestyle='--', label=f'Time Avg (Avg Wavelength): {avg_wavelength_time_avg:.2f}')
-        plt.axhline(y=medianwavelength_time_avg, color='g', linestyle='--', label=f'Time Avg (Median Wavelength): {medianwavelength_time_avg:.2f}')
+        # Set font size
+        plt.rcParams.update({'font.size': 10})
 
+        # Add horizontal line for time average
+        plt.axhline(y=avg_peak_distance_time_avg, color='b', linestyle='--', label=f'Time Avg (Avg Peak Distance): {avg_peak_distance_time_avg:.2e}')
+        plt.axhline(y=avg_peak_distance_time_avg2, color='r', linestyle='--', label=f'Time Avg (Avg Peak Distance after 10 time steps): {avg_peak_distance_time_avg2:.2e}')
         # Plot labels and title
-        plt.xlabel('Timestep')
-        plt.ylabel('Wavelength')
-        plt.title(f"Wavelength Over Time (r_min={r_min}, r_max={r_max})")
+        plt.xlabel('Time (Days)')
+        plt.ylabel('Average Peak Distance (m)')
+
+        # Set tick size
+        plt.xticks(fontsize=12)
+        plt.yticks(fontsize=12)
+
+        #plt.title(f"Average Peak Distance Over Time (r_min={r_min}, r_max={r_max}, z_min={z_min}, z_max={z_max})")
         plt.legend()
         plt.show()
+
 
 

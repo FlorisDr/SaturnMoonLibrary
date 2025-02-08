@@ -5,7 +5,7 @@ class WaveStills:
     def __init__(self, dataset):
         self.dataset = dataset
     
-    def plot_polar_cartesian_still(self, timestep, r_max, r_min=0, ax=None, show=True, theta_max=2*np.pi, heatmap=False):
+    def plot_polar_cartesian_still(self, timestep, r_max, r_min=0, ax=None, show=True, theta_max=2*np.pi, heatmap=False, ms = 1):
         """Generates a single frame of the polar to Cartesian plot at a given timestep."""
         if ax is None:
             figure, ax = plt.subplots(figsize=(10, 7))  # Create new figure if no axis is provided
@@ -32,13 +32,20 @@ class WaveStills:
                 self.dataset.relative_positions[timestep, self.dataset.num_moons:, 0],
                 self.dataset.relative_positions[timestep, self.dataset.num_moons:, 1]
             )
-            test_marker, = ax.plot(r_test, theta_test, '.', color="navy", markersize=1, label="Test Particles")
+            test_marker, = ax.plot(r_test, theta_test, '.', color="navy", markersize=ms, label="Test Particles")
             legend_handles.append(test_marker)
 
         saturn_marker, = ax.plot([0], [0], "x", color="yellow", markersize=10, label="Saturn (Barycenter)")
         legend_handles.append(saturn_marker)
 
-        ax.set_title(f"Polar Plot at timestep {timestep}")
+        # Set font size
+        plt.rcParams.update({'font.size': 12})
+        plt.tick_params(axis = "both", which = "major", labelsize = 12)
+
+        dt=self.dataset.header["dt"]*(self.dataset.header["Saved Points Modularity"])
+        time = dt/60/60/24
+
+        ax.set_title(f"Polar Plot at timestep {timestep*time}")
 
         if show and ax is None:  # Only show if it's not part of a mosaic
             plt.show()
@@ -127,7 +134,7 @@ class WaveStills:
 
         fig, axes = plt.subplots(2, 2, figsize=(12, 10))
 
-        fig.suptitle("Mosaic Plot of Timesteps", fontsize=16)
+        #fig.suptitle("Mosaic Plot of Timesteps", fontsize=16)
 
         for ax, timestep in zip(axes.flat, timesteps):
             plot_function(timestep, r_max, r_min, ax=ax, show=False, **kwargs)  # Pass the subplot (ax)
