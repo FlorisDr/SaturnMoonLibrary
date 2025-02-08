@@ -1,8 +1,8 @@
-Simulating the rings of Saturn to model the waves formed in its rings.
-author: Bos, S., Dirkzwager, F.J.M., Enthoven, A., and van Uffelen, K.D.
-date: 07-02-2025
+Simulating the rings of Saturn to model the waves formed in its rings. \
+author: Bos, S., Dirkzwager, F.J.M., Enthoven, A., and van Uffelen, K.D. \
+date: 07-02-2025 \
 
-Summary:
+Summary: \
 On this github page all the important code that has been used for this project is located.
 This folder has a general structure existing of an Archive Folder which has most of the junk code of previous versions stored,
 this is not important for the rest of the code.THen there is the READ Me folder where we are now located that also contains an exact tree of the file structure.
