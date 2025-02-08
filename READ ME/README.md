@@ -1,4 +1,4 @@
-### Simulating the rings of Saturn to model the waves formed in its rings. \
+### Simulating the rings of Saturn to model the waves formed in its rings. 
 author: Bos, S., Dirkzwager, F.J.M., Enthoven, A., and van Uffelen, K.D. \
 date: 07-02-2025 
 
