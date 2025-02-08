@@ -1,0 +1,2758 @@
+This file contains a log of all simualtion datasets created. For each dataset all identifying data is noted.
+Below, there is an example of how files are saved:
+---------------------------------------------------------------------------------------------------------
+File Name: .....
+Creation Date: .....
+Moon Names: .....
+Initial Data Folder: .....
+Epoch: .....
+dt: .....
+Timesteps: .....
+Number of Test Particles: .....
+Saved Points Modularity: .....
+Skipped Timesteps: .....
+Inner Radius: .....
+Outer Radius: .....
+Include Particle-Moon Collisions: .....
+---------------------------------------------------------------------------------------------------------
+Below all datasets will be visible:
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-06_17-06-29.bin 
+Creation Date: 2025-01-06 17:06:29
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 10000
+Number of Test Particles: 10000
+Saved Points Modularity: 5
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Include Particle-Moon Collisions: True
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-06_17-14-48.bin 
+Creation Date: 2025-01-06 17:14:48
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 10000
+Number of Test Particles: 10000
+Saved Points Modularity: 20
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Include Particle-Moon Collisions: True
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-09_00-01-48.bin 
+Creation Date: 2025-01-09 00:01:48
+Moon Names: Saturn, Titan
+Moon Count: 2
+Initial Data Folder: initial_data_moon_count_2_start_date_2017-11-18_00-00-00-000_creation_date_2025-01-07_14-21-49
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 10000
+Number of Test Particles: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-07
+Include Particle-Moon Collisions: True
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-09_14-16-52.bin 
+Creation Date: 2025-01-09 14:16:52
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 10000
+Number of Test Particles: 1000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-07
+Include Particle-Moon Collisions: True
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-09_14-17-10.bin 
+Creation Date: 2025-01-09 14:17:10
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 10000
+Number of Test Particles: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-07
+Include Particle-Moon Collisions: True
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-09_15-28-36.bin 
+Creation Date: 2025-01-09 15:28:36
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 20000
+Number of Test Particles: 1000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-07
+Include Particle-Moon Collisions: True
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-09_15-32-01.bin 
+Creation Date: 2025-01-09 15:32:01
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 20000
+Number of Test Particles: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-07
+Include Particle-Moon Collisions: True
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-09_15-57-11.bin 
+Creation Date: 2025-01-09 15:57:11
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 20000
+Number of Test Particles: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-08
+Include Particle-Moon Collisions: True
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-09_16-01-08.bin 
+Creation Date: 2025-01-09 16:01:08
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 20000
+Number of Test Particles: 20000
+Saved Points Modularity: 100
+Skipped Timesteps: 10000
+Inner Radius: 70000000.0
+Outer Radius: 420000000.0
+Ring Folder: ring_data_2025-01-08
+Include Particle-Moon Collisions: True
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-09_16-11-56.bin 
+Creation Date: 2025-01-09 16:11:56
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 2000
+Number of Test Particles: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 420000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-09_16-15-50.bin 
+Creation Date: 2025-01-09 16:15:50
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 2000
+Number of Test Particles: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 420000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-09_16-17-43.bin 
+Creation Date: 2025-01-09 16:17:43
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 2000
+Number of Test Particles: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 420000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-09_17-38-29.bin 
+Creation Date: 2025-01-09 17:38:29
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 2000
+Number of Test Particles: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 420000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-09_17-38-56.bin 
+Creation Date: 2025-01-09 17:38:56
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 2000
+Number of Test Particles: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 420000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Yoshida
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-09_17-49-28.bin 
+Creation Date: 2025-01-09 17:49:28
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 2000
+Number of Test Particles: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 420000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Yoshida Optimized
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-09_17-52-06.bin 
+Creation Date: 2025-01-09 17:52:06
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 2000
+Number of Test Particles: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 420000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Yoshida Optimized
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-11_00-13-15.bin 
+Creation Date: 2025-01-11 00:13:15
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 2000
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 1000
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-11_16-15-15.bin 
+Creation Date: 2025-01-11 16:15:15
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 2000
+Number of Test Particles: 100000
+Saved Points Modularity: 1
+Skipped Timesteps: 1000
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-11_16-54-17.bin 
+Creation Date: 2025-01-11 16:54:17
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 4000
+Number of Test Particles: 100000
+Saved Points Modularity: 1
+Skipped Timesteps: 3000
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-12_22-05-41.bin 
+Creation Date: 2025-01-12 22:05:41
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 4000
+Number of Test Particles: 100000
+Saved Points Modularity: 1
+Skipped Timesteps: 3000
+Inner Radius: 120000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-12_22-11-24.bin 
+Creation Date: 2025-01-12 22:11:24
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 4000
+Number of Test Particles: 100000
+Saved Points Modularity: 1
+Skipped Timesteps: 3000
+Inner Radius: 130000000.0
+Outer Radius: 1380000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-12_22-19-09.bin 
+Creation Date: 2025-01-12 22:19:09
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 4000
+Number of Test Particles: 100000
+Saved Points Modularity: 1
+Skipped Timesteps: 3000
+Inner Radius: 1300000000.0
+Outer Radius: 1380000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-12_22-23-34.bin 
+Creation Date: 2025-01-12 22:23:34
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 4000
+Number of Test Particles: 100000
+Saved Points Modularity: 1
+Skipped Timesteps: 3000
+Inner Radius: 130000000.0
+Outer Radius: 138000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-13_08-41-15.bin 
+Creation Date: 2025-01-13 08:41:15
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 100000
+Number of Test Particles: 100000
+Saved Points Modularity: 1000
+Skipped Timesteps: 0
+Inner Radius: 116500000.0
+Outer Radius: 119000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-13_09-38-36.bin 
+Creation Date: 2025-01-13 09:38:36
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 1000
+Number of Test Particles: 100
+Saved Points Modularity: 5
+Skipped Timesteps: 500
+Inner Radius: 116500000.0
+Outer Radius: 119000000.0
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-13_10-42-05.bin 
+Creation Date: 2025-01-13 10:42:05
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 1000
+Number of Test Particles: 100000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-13_10-42-45.bin 
+Creation Date: 2025-01-13 10:42:45
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 100000
+Number of Test Particles: 100000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-13_11-46-03.bin 
+Creation Date: 2025-01-13 11:46:03
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 100000
+Number of Test Particles: 100000
+Saved Points Modularity: 1
+Skipped Timesteps: 99000
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-14_02-37-53.bin 
+Creation Date: 2025-01-14 02:37:53
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 50000
+Number of Test Particles: 100000
+Saved Points Modularity: 1
+Skipped Timesteps: 99000
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-14_02-51-05.bin 
+Creation Date: 2025-01-14 02:51:05
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 50000
+Number of Test Particles: 10000
+Saved Points Modularity: 20
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-14_02-58-48.bin 
+Creation Date: 2025-01-14 02:58:48
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 1000
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Yoshida Optimized
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-14_03-03-01.bin 
+Creation Date: 2025-01-14 03:03:01
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 100.0
+Timesteps: 6000
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Yoshida Optimized
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-14_21-26-21.bin 
+Creation Date: 2025-01-14 21:26:21
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 100.0
+Timesteps: 6000
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Include Particle-Moon Collisions: True
+Numerical Integrator: Yoshida Optimized
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-14_22-22-50.bin 
+Creation Date: 2025-01-14 22:22:50
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 100000
+Number of Test Particles: 100000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 116500000.0
+Outer Radius: 119000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 2000
+Number of Azimuthal Bins: 720
+Include Shear Forces: True
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-15_00-04-49.bin 
+Creation Date: 2025-01-15 00:04:49
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 1000
+Number of Test Particles: 100000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 116500000.0
+Outer Radius: 119000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 2000
+Number of Azimuthal Bins: 720
+Include Shear Forces: True
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-15_00-19-01.bin 
+Creation Date: 2025-01-15 00:19:01
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 20.0
+Timesteps: 1000
+Number of Test Particles: 100000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 116500000.0
+Outer Radius: 119000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 2000
+Number of Azimuthal Bins: 720
+Include Shear Forces: True
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-15_00-31-11.bin 
+Creation Date: 2025-01-15 00:31:11
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 1000
+Number of Test Particles: 100000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 2000
+Number of Azimuthal Bins: 720
+Include Shear Forces: True
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-15_00-43-16.bin 
+Creation Date: 2025-01-15 00:43:16
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 200.0
+Timesteps: 1000
+Number of Test Particles: 100000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 20000
+Number of Azimuthal Bins: 720
+Include Shear Forces: True
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-15_00-59-23.bin 
+Creation Date: 2025-01-15 00:59:23
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 200.0
+Timesteps: 1000
+Number of Test Particles: 100000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 20
+Number of Azimuthal Bins: 720
+Include Shear Forces: True
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-16_18-11-44.bin 
+Creation Date: 2025-01-16 18:11:44
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600.0
+Timesteps: 500
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 20
+Number of Azimuthal Bins: 720
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Quinn
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-16_18-13-39.bin 
+Creation Date: 2025-01-16 18:13:39
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 20.0
+Timesteps: 500
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 20
+Number of Azimuthal Bins: 720
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Quinn
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-16_18-15-32.bin 
+Creation Date: 2025-01-16 18:15:32
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 200.0
+Timesteps: 500
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 20
+Number of Azimuthal Bins: 720
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Quinn
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-16_18-16-11.bin 
+Creation Date: 2025-01-16 18:16:11
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 50.0
+Timesteps: 500
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 20
+Number of Azimuthal Bins: 720
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Quinn
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-16_18-19-37.bin 
+Creation Date: 2025-01-16 18:19:37
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 20.0
+Timesteps: 15000
+Number of Test Particles: 100000
+Saved Points Modularity: 30
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 20
+Number of Azimuthal Bins: 720
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Quinn
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-16_18-26-40.bin 
+Creation Date: 2025-01-16 18:26:40
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 1.0
+Timesteps: 300000
+Number of Test Particles: 100000
+Saved Points Modularity: 600
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 20
+Number of Azimuthal Bins: 720
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Quinn
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-17_01-59-56.bin 
+Creation Date: 2025-01-17 01:59:56
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 500
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 20
+Number of Azimuthal Bins: 720
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Quinn
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_21-09-23.bin 
+Creation Date: 2025-01-19 21:09:23
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 100
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.7853981633974483
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Quinn
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_21-09-48.bin 
+Creation Date: 2025-01-19 21:09:48
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 100
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.7853981633974483
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_21-13-25.bin 
+Creation Date: 2025-01-19 21:13:25
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 100
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.7853981633974483
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_21-27-03.bin 
+Creation Date: 2025-01-19 21:27:03
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 100
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.7853981633974483
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapforg Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_21-30-10.bin 
+Creation Date: 2025-01-19 21:30:10
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 100
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.7853981633974483
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_21-34-17.bin 
+Creation Date: 2025-01-19 21:34:17
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 10
+Timesteps: 100
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.7853981633974483
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_21-36-26.bin 
+Creation Date: 2025-01-19 21:36:26
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 5
+Timesteps: 100
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.39269908169872414
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_21-44-49.bin 
+Creation Date: 2025-01-19 21:44:49
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 5
+Timesteps: 100
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.39269908169872414
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_21-45-36.bin 
+Creation Date: 2025-01-19 21:45:36
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 10
+Timesteps: 100
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 1.5707963267948966
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_21-54-01.bin 
+Creation Date: 2025-01-19 21:54:01
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 10
+Timesteps: 100
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 1.5707963267948966
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_22-01-20.bin 
+Creation Date: 2025-01-19 22:01:20
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 10
+Timesteps: 100
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 1.5707963267948966
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_22-13-47.bin 
+Creation Date: 2025-01-19 22:13:47
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 10
+Timesteps: 100
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 1.5707963267948966
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_22-20-30.bin 
+Creation Date: 2025-01-19 22:20:30
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 10
+Timesteps: 100
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 1.5707963267948966
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_22-54-30.bin 
+Creation Date: 2025-01-19 22:54:30
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 10
+Timesteps: 100
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 1.5707963267948966
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_23-07-53.bin 
+Creation Date: 2025-01-19 23:07:53
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 10
+Timesteps: 100
+Number of Test Particles: 1000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.39269908169872414
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_23-09-13.bin 
+Creation Date: 2025-01-19 23:09:13
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 10
+Timesteps: 1000
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000
+Outer Radius: 140000000
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.09817477042468103
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_23-13-10.bin 
+Creation Date: 2025-01-19 23:13:10
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 10
+Timesteps: 1000
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 116500000.0
+Outer Radius: 119000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.09817477042468103
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_23-15-40.bin 
+Creation Date: 2025-01-19 23:15:40
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 50
+Timesteps: 100
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 116500000.0
+Outer Radius: 119000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.09817477042468103
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_23-17-09.bin 
+Creation Date: 2025-01-19 23:17:09
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 50
+Timesteps: 10000
+Number of Test Particles: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 11700000.0
+Outer Radius: 118200000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.09817477042468103
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_23-27-17.bin 
+Creation Date: 2025-01-19 23:27:17
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 25
+Timesteps: 1000
+Number of Test Particles: 10000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 11700000.0
+Outer Radius: 118200000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.09817477042468103
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_23-32-18.bin 
+Creation Date: 2025-01-19 23:32:18
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 25
+Timesteps: 1000
+Number of Test Particles: 10000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 117000000.0
+Outer Radius: 118200000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.09817477042468103
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_23-39-17.bin 
+Creation Date: 2025-01-19 23:39:17
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 25
+Timesteps: 1000
+Number of Test Particles: 10000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 114000000.0
+Outer Radius: 120000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.04908738521234052
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_23-43-47.bin 
+Creation Date: 2025-01-19 23:43:47
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 25
+Timesteps: 1000
+Number of Test Particles: 10000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.02454369260617026
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-19_23-48-31.bin 
+Creation Date: 2025-01-19 23:48:31
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 25
+Timesteps: 1000
+Number of Test Particles: 10000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.006135923151542565
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-01-20_10-57-45.bin 
+Creation Date: 2025-01-20 10:57:45
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 25
+Timesteps: 10000
+Number of Test Particles: 10000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 0.006135923151542565
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog Pizza Slice
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-01_17-41-06.bin 
+Creation Date: 2025-02-01 17:41:06
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-01_17-42-51.bin 
+Creation Date: 2025-02-01 17:42:51
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Euler
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-01_17-43-57.bin 
+Creation Date: 2025-02-01 17:43:57
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Yoshida 8th Order
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-01_17-45-09.bin 
+Creation Date: 2025-02-01 17:45:09
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Yoshida 6th Order
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-01_17-46-43.bin 
+Creation Date: 2025-02-01 17:46:43
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Runge–Kutta 4
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-01_17-53-25.bin 
+Creation Date: 2025-02-01 17:53:25
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: RK4
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-01_17-53-52.bin 
+Creation Date: 2025-02-01 17:53:52
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 100
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: RK4
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-01_17-54-55.bin 
+Creation Date: 2025-02-01 17:54:55
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 100
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-01_23-36-55.bin 
+Creation Date: 2025-02-01 23:36:55
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 100
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-01_23-37-34.bin 
+Creation Date: 2025-02-01 23:37:34
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 100
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-01_23-38-20.bin 
+Creation Date: 2025-02-01 23:38:20
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 100
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-01_23-39-17.bin 
+Creation Date: 2025-02-01 23:39:17
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 100
+Timesteps: 1000
+Number of Test Particles: 10
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-01_23-39-59.bin 
+Creation Date: 2025-02-01 23:39:59
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 100
+Timesteps: 1000
+Number of Test Particles: 10
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-04_10-49-26.bin 
+Creation Date: 2025-02-04 10:49:26
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 100000
+Number of Test Particles: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: True
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 72.415
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-04_10-51-24.bin 
+Creation Date: 2025-02-04 10:51:24
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 100000
+Number of Test Particles: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 168.187
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-04_11-48-05.bin 
+Creation Date: 2025-02-04 11:48:05
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Yoshida 6th Order
+Initialisation Method: standard
+Runtime: 0.797
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-04_12-11-31.bin 
+Creation Date: 2025-02-04 12:11:31
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Yoshida 6th Order
+Initialisation Method: standard
+Runtime: 0.787
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-04_12-40-10.bin 
+Creation Date: 2025-02-04 12:40:10
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Yoshida 8th Order
+Initialisation Method: standard
+Runtime: 1.368
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-04_12-47-18.bin 
+Creation Date: 2025-02-04 12:47:18
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Yoshida 8th Order
+Initialisation Method: standard
+Runtime: 1.794
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-04_12-51-07.bin 
+Creation Date: 2025-02-04 12:51:07
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Yoshida 8th Order
+Initialisation Method: standard
+Runtime: 1.606
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-04_12-52-12.bin 
+Creation Date: 2025-02-04 12:52:12
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 1000
+Number of Test Particles: 1000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: RK4
+Initialisation Method: standard
+Runtime: 0.45
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-04_18-15-25.bin 
+Creation Date: 2025-02-04 18:15:25
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 1200
+Timesteps: 1000000
+Number of Test Particles: 0
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 11.425
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-04_18-15-56.bin 
+Creation Date: 2025-02-04 18:15:56
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 1200
+Timesteps: 1000000
+Number of Test Particles: 0
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Yoshida 6th Order
+Initialisation Method: standard
+Runtime: 60.882
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-04_18-21-25.bin 
+Creation Date: 2025-02-04 18:21:25
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 9600
+Timesteps: 1000000
+Number of Test Particles: 0
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Yoshida 6th Order
+Initialisation Method: standard
+Runtime: 61.188
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-04_18-22-50.bin 
+Creation Date: 2025-02-04 18:22:50
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2024-12-24_21-27-40
+Epoch: [2458075.5]
+dt: 9600
+Timesteps: 1000000
+Number of Test Particles: 0
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 12.013
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-04_22-16-06.bin 
+Creation Date: 2025-02-04 22:16:06
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 9600
+Timesteps: 1000
+Number of Test Particles: 100
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 0.047
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-04_22-17-59.bin 
+Creation Date: 2025-02-04 22:17:59
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 1200
+Timesteps: 1000
+Number of Test Particles: 100
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 0.049
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-16-27.bin 
+Creation Date: 2025-02-05 17:16:27
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 14.716
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-16-42.bin 
+Creation Date: 2025-02-05 17:16:42
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 1200
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 12.736
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-16-54.bin 
+Creation Date: 2025-02-05 17:16:54
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 1800
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 16.753
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-17-11.bin 
+Creation Date: 2025-02-05 17:17:11
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 2400
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 16.243
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-17-28.bin 
+Creation Date: 2025-02-05 17:17:28
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 3000
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 16.206
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-17-44.bin 
+Creation Date: 2025-02-05 17:17:44
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 3600
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 14.939
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-17-59.bin 
+Creation Date: 2025-02-05 17:17:59
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 4200
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 17.978
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-18-17.bin 
+Creation Date: 2025-02-05 17:18:17
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 4800
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 18.643
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-18-36.bin 
+Creation Date: 2025-02-05 17:18:36
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 5400
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 23.331
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-50-49.bin 
+Creation Date: 2025-02-05 17:50:49
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 17.876
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-51-07.bin 
+Creation Date: 2025-02-05 17:51:07
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 1200
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 12.74
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-51-20.bin 
+Creation Date: 2025-02-05 17:51:20
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 1800
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 13.462
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-51-34.bin 
+Creation Date: 2025-02-05 17:51:34
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 2400
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 13.045
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-51-47.bin 
+Creation Date: 2025-02-05 17:51:47
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 3000
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 14.471
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-52-01.bin 
+Creation Date: 2025-02-05 17:52:01
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 3600
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 15.38
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-52-17.bin 
+Creation Date: 2025-02-05 17:52:17
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 4200
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 17.748
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-52-35.bin 
+Creation Date: 2025-02-05 17:52:35
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 4800
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 18.753
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-05_17-52-54.bin 
+Creation Date: 2025-02-05 17:52:54
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 5400
+Timesteps: 1000000
+Number of Test Particles: 10
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-09
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: False
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: Linear
+Runtime: 19.216
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-07_10-57-11.bin 
+Creation Date: 2025-02-07 10:57:11
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan
+Moon Count: 19
+Initial Data Folder: initial_data_moon_count_19_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-05_16-18-31
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 2000
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 125000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-08
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 6.48
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-07_11-00-32.bin 
+Creation Date: 2025-02-07 11:00:32
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 2000
+Number of Test Particles: 10000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 125000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-08
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 5.924
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-07_11-04-15.bin 
+Creation Date: 2025-02-07 11:04:15
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 2000
+Number of Test Particles: 25000
+Saved Points Modularity: 1
+Skipped Timesteps: 0
+Inner Radius: 132000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-08
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 16.716
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-07_11-18-23.bin 
+Creation Date: 2025-02-07 11:18:23
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 2000
+Number of Test Particles: 50000
+Saved Points Modularity: 2
+Skipped Timesteps: 0
+Inner Radius: 132000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-08
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 22.502
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-07_11-33-20.bin 
+Creation Date: 2025-02-07 11:33:20
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 2000
+Number of Test Particles: 400000
+Saved Points Modularity: 16
+Skipped Timesteps: 0
+Inner Radius: 132000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-08
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 125.406
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-07_12-28-44.bin 
+Creation Date: 2025-02-07 12:28:44
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 2000
+Number of Test Particles: 800000
+Saved Points Modularity: 32
+Skipped Timesteps: 0
+Inner Radius: 132000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-08
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 261.743
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-07_12-45-06.bin 
+Creation Date: 2025-02-07 12:45:06
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 4000
+Number of Test Particles: 800000
+Saved Points Modularity: 64
+Skipped Timesteps: 0
+Inner Radius: 132000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-08
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 513.821
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-07_19-10-12.bin 
+Creation Date: 2025-02-07 19:10:12
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 20000
+Number of Test Particles: 800000
+Saved Points Modularity: 320
+Skipped Timesteps: 0
+Inner Radius: 132000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-08
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 2378.833
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-07_20-31-49.bin 
+Creation Date: 2025-02-07 20:31:49
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 20000
+Number of Test Particles: 800000
+Saved Points Modularity: 320
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-08
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 2643.445
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: simulation 2025-02-07_21-24-12.bin 
+Creation Date: 2025-02-07 21:24:12
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 20000
+Number of Test Particles: 50000
+Saved Points Modularity: 160
+Skipped Timesteps: 0
+Inner Radius: 70000000.0
+Outer Radius: 140000000.0
+J2: -0.01629
+Ring Folder: ring_data_2025-01-08
+Number of Radial Bins: 0
+Number of Azimuthal Bins: 0
+Theta Max: 6.283185307179586
+Include Shear Forces: True
+Include Particle-Moon Collisions: False
+Numerical Integrator: Leapfrog
+Initialisation Method: standard
+Runtime: 143.361
+---------------------------------------------------------------------------------------------------------

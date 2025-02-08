@@ -1,0 +1,107 @@
+This file contains a log of all multiple timesteps Horizons datasets created. For each dataset all identifying data is noted.
+Below, there is an example of how files are saved:
+---------------------------------------------------------------------------------------------------------
+File Name: .....
+Creation Date: .....
+Moon Names: .....
+Initial Data Folder: .....
+Epoch: .....
+dt: .....
+Timesteps: .....
+Saved Points Modularity: .....
+Skipped Timesteps: 0
+Numerical Integrator:  Horizons
+---------------------------------------------------------------------------------------------------------
+Below all datasets will be visible:
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: horizons_long 2025-02-05_13-43-17.bin 
+Creation Date: 2025-02-05 13:43:17
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 300
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Numerical Integrator: Horizons
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: horizons_long 2025-02-05_16-19-05.bin 
+Creation Date: 2025-02-05 16:19:05
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan
+Moon Count: 19
+Initial Data Folder: initial_data_moon_count_19_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-05_16-18-31
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 50000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Numerical Integrator: Horizons
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: horizons_long 2025-02-05_16-19-32.bin 
+Creation Date: 2025-02-05 16:19:32
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan
+Moon Count: 19
+Initial Data Folder: initial_data_moon_count_19_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-05_16-18-31
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 3000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Numerical Integrator: Horizons
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: horizons_long 2025-02-05_16-26-00.bin 
+Creation Date: 2025-02-05 16:26:00
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan
+Moon Count: 19
+Initial Data Folder: initial_data_moon_count_19_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-05_16-18-31
+Epoch: [2458075.5]
+dt: 600
+Timesteps: 3000
+Saved Points Modularity: 10
+Skipped Timesteps: 0
+Numerical Integrator: Horizons
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: horizons_long 2025-02-06_16-45-09.bin 
+Creation Date: 2025-02-06 16:45:09
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan, Daphnis
+Moon Count: 20
+Initial Data Folder: initial_data_moon_count_20_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-04_21-24-42
+Epoch: [2458075.5]
+dt: 5400
+Timesteps: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Numerical Integrator: Horizons
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: horizons_long 2025-02-06_16-54-49.bin 
+Creation Date: 2025-02-06 16:54:49
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan
+Moon Count: 19
+Initial Data Folder: initial_data_moon_count_19_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-05_16-18-31
+Epoch: [2458075.5]
+dt: 5400
+Timesteps: 10000
+Saved Points Modularity: 100
+Skipped Timesteps: 0
+Numerical Integrator: Horizons
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+File Name: horizons_long 2025-02-06_17-02-24.bin 
+Creation Date: 2025-02-06 17:02:24
+Moon Names: Saturn, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus, Phoebe, Janus, Epimetheus, Helene, Telesto, Calypso, Atlas, Prometheus, Pandora, Pan
+Moon Count: 19
+Initial Data Folder: initial_data_moon_count_19_start_date_2017-11-18_00-00-00-000_creation_date_2025-02-05_16-18-31
+Epoch: [2458075.5]
+dt: 540000
+Timesteps: 1000
+Saved Points Modularity: 5
+Skipped Timesteps: 0
+Numerical Integrator: Horizons
+---------------------------------------------------------------------------------------------------------
