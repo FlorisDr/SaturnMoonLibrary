@@ -1,0 +1,26 @@
+Commands for building binder
+
+go to relevant folder
+ cd .\SaturnMoonLibrary\SaturnMoonSimulation\SimulationFolder\
+
+make build folder
+ mkdir build
+
+go to build
+ cd build
+
+that start build (use path to pybind11 can be found by pip show pybind11)
+ cmake .. -DCMAKE_PREFIX_PATH="C:\~\Python\Python311\site-packages\pybind11"
+
+Now building it
+ cmake --build . --config Release
+
+There is also a shortcut in the form of powershell script< run the following
+when in this folder
+ cd .\SaturnMoonLibrary\SaturnMoonSimulation\SimulationFolder\build
+ powershell -ExecutionPolicy Bypass -File script2.ps1 
+
+There is now also a nice powershell script that does everything assuming there is a an archive folder set up properly
+it automatically detect where the pybind path is located
+ cd .\SaturnMoonLibrary\SaturnMoonSimulation\SimulationFolder
+ powershell -ExecutionPolicy Bypass -File Cpp_code_builder.ps1
